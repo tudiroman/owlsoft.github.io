@@ -1,0 +1,65 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.cast-shadow {
+
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+	-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+}
+
+.image-xxs {
+
+	max-height: 20px;
+}
+
+.image-xs {
+
+	max-height: 20px;
+}
+
+p.lead {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.icon-sm {
+
+	font-size: 25px;
+}
+
+.page-title-3, .page-title-4 {
+
+	height: 90px;
+}
+
+.background-image-holder {
+
+	border-radius: 20px;
+}
+
+.feature.boxed {
+
+	border-radius:20px;
+}
+
+.image-small {
+
+	border-radius: 100px;
+}
+
+h3 {
+
+	font-size: 24px;
+}
+
+.feature.bordered {
+
+	border-radius: 20px;
+}
+
+.bg-secondary {
+
+	background-color: #fff;
+}
+
